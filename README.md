@@ -38,3 +38,4 @@ Sem prejuízo do seu objetivo central, o Núcleo de Tecnologia de Informação p
 - Augusto Soares Pereira
 - Álvaro Cozadi dos Reis
 - Daniel Lemes Borges
+- Gustavo Andrade Penha
