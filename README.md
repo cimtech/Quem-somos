@@ -28,9 +28,9 @@ Sem prejuízo do seu objetivo central, o Núcleo de Tecnologia de Informação p
 > Alunos dos cursos de Ciência da Computação, Sistemas de Informação ou afins, devem ter breve conhecimento em:
  - Administração de Banco de Dados
  - Usabilidade e Design
- - Lógica de Programação e Programação web (HTML e CSS)
+ - Lógica de Programação e Programação web (PHP, Java, HTML5 e CSS3)
  - Segurança em plataformas digitais
- - Controle de versão
+ - Controle de versão (Git e Github)
  - Além de conhecimento nas áreas da Administração e Gestão.
 
 ##7. Equipe Atual
